@@ -1,4 +1,4 @@
-package com.fabio.java.back.end.productapi.productapi;
+package com.fabio.java.back.end.productapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
